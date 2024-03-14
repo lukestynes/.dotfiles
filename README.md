@@ -39,3 +39,4 @@ then use GNU stow to create symlinks
 ```
 $ stow .
 ```
+Now, all of your configuration files will be stored in the `.dotfiles` directory, but the internal structure is mirrored to your `$HOME` directory.
